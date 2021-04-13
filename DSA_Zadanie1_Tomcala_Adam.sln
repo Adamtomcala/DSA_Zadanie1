@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DSA_Zadanie1_Tomcala_Adam", "DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.vcxproj", "{EA302FBA-D650-4AF6-A043-C21CF9CA5738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Debug|x64.ActiveCfg = Debug|x64
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Debug|x64.Build.0 = Debug|x64
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Debug|x86.Build.0 = Debug|Win32
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Release|x64.ActiveCfg = Release|x64
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Release|x64.Build.0 = Release|x64
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Release|x86.ActiveCfg = Release|Win32
+		{EA302FBA-D650-4AF6-A043-C21CF9CA5738}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEED8FE9-0FAC-4741-8717-B28FD93CF460}
+	EndGlobalSection
+EndGlobal

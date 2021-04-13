@@ -1,0 +1,11 @@
+﻿  DSA_Zadanie1_Tomcala_Adam.cpp
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(71,37): warning C4244: '=': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(116,46): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(191,27): warning C4244: '=': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(468,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(482,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(525,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(540,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam\DSA_Zadanie1_Tomcala_Adam.cpp(545,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSA_Zadanie1_Tomcala_Adam.vcxproj -> C:\Users\User\source\repos\DSA_Zadanie1_Tomcala_Adam\Debug\DSA_Zadanie1_Tomcala_Adam.exe
